@@ -1,3 +1,5 @@
+//Palindrome Checker
+
 // store values for a palindrome and a nonpalindrome to make sure function works as intended
 
 let palindrome = 'Eva, can I see bees in a cave?';
