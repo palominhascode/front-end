@@ -1,4 +1,4 @@
-//Palindrome Checker
+//Palindrome Checker exercise
 
 // store values for a palindrome and a nonpalindrome to make sure function works as intended
 
